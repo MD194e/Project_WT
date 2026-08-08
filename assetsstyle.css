@@ -1,0 +1,4 @@
+body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.bg-primary { background:#0d6efd !important; } /* bootstrap default */
+.card { border:0; }
+.navbar-brand { font-weight:700; }
